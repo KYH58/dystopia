@@ -1,0 +1,2 @@
+text = 'dystopia'
+print(text)

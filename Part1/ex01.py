@@ -1,1 +1,2 @@
-//This is your first exercise file. 
+text = 'Hello, world!'
+print(text)
